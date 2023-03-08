@@ -1,0 +1,34 @@
+[
+  {
+    "_id": "u101",
+    "fullname": "Baba Bubu",
+    "username": "baba",
+    "password": "1234",
+    "balance": 400,
+    "isAdmin": false
+  },
+  {
+    "_id": "u102",
+    "fullname": "Dvir Co",
+    "username": "dvir",
+    "password": "1234",
+    "balance": 300,
+    "isAdmin": false
+  },
+  {
+    "_id": "u103",
+    "fullname": "dvdv",
+    "username": "dvdv",
+    "password": "1234",
+    "balance": 300,
+    "isAdmin": false
+  },
+  {
+    "_id": "27vYo",
+    "fullname": "admin",
+    "username": "admin",
+    "password": "1234",
+    "balance": 500,
+    "isAdmin": true
+  }
+]

@@ -1,0 +1,18 @@
+{
+  "name": "missbug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --ignore \"./data\" server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cryptr": "^6.0.3",
+    "express": "^4.18.1"
+  }
+}
