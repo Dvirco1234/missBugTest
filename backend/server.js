@@ -1,7 +1,7 @@
 const express = require('express')
 const cookieParser = require('cookie-parser')
 
-const port = 3030
+const port = process.env.PORT || 3030
 const bugService = require('./services/bug.service')
 const userService = require('./services/user.service')
 const app = express()
